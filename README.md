@@ -26,3 +26,7 @@ Data: https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-ener
 * Land Area (Km2): Total land area in square kilometers.
 * Latitude: Latitude of the country's centroid in decimal degrees.
 * Longitude: Longitude of the country's centroid in decimal degrees.
+
+![IMAGE13](https://github.com/user-attachments/assets/31382a00-2d1d-4dc7-bb14-b46b57131de6)
+
+
