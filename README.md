@@ -27,6 +27,17 @@ Data: https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-ener
 * Latitude: Latitude of the country's centroid in decimal degrees.
 * Longitude: Longitude of the country's centroid in decimal degrees.
 
+
+
+
+![IMAGE8](https://github.com/user-attachments/assets/a7d98c86-0099-4261-8d44-86a9143b591d)
+
+![IMAGE9](https://github.com/user-attachments/assets/93e5daee-288b-4415-84f3-95d6ae4ec373)
+
+![IMAGE10](https://github.com/user-attachments/assets/b54cd733-79db-4eab-8414-e41b4d67180a)
+
+![IMAGE12](https://github.com/user-attachments/assets/747c20da-76ba-456b-a799-4e8fab834707)
+
 ![IMAGE13](https://github.com/user-attachments/assets/31382a00-2d1d-4dc7-bb14-b46b57131de6)
 
 
